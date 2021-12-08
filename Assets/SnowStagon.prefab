@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 7083856283401420673}
   - component: {fileID: 7083856283401420672}
   - component: {fileID: 7083856283401420675}
-  m_Layer: 0
+  - component: {fileID: 1421789824}
+  m_Layer: 1
   m_Name: Snow Hexagon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -83,6 +84,21 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &1421789824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7083856283401420674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9c3d20496e3cb3408ccffa45d551a1e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  snowStagonCamera: {fileID: 7083856283630925061}
+  materialTemplate: {fileID: 2100000, guid: 4438bff2a20e74932b90b2af6762b849, type: 2}
+  renderTextureTemplate: {fileID: 8400000, guid: 6c3c030f2030b42eaa8b623e4af1e7d4, type: 2}
 --- !u!1 &7083856283630925062
 GameObject:
   m_ObjectHideFlags: 0
@@ -95,7 +111,7 @@ GameObject:
   - component: {fileID: 7083856283630925061}
   - component: {fileID: 7083856283630925060}
   m_Layer: 1
-  m_Name: TrailCam_2
+  m_Name: TrailCam
   m_TagString: TrailCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -109,7 +125,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7083856283630925062}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: -0.029999996, z: 0}
+  m_LocalPosition: {x: 0, y: -0.012, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -123,7 +139,7 @@ Camera:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7083856283630925062}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_ClearFlags: 4
   m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
@@ -143,13 +159,13 @@ Camera:
   far clip plane: 0.8
   field of view: 60
   orthographic: 1
-  orthographic size: 10
+  orthographic size: 25
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 1
   m_RenderingPath: -1
-  m_TargetTexture: {fileID: 8400000, guid: 09bfcaea704c02f43a5b6e741f5e3742, type: 2}
+  m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
   m_TargetEye: 3
   m_HDR: 1
@@ -202,7 +218,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7083856284467996963}
   - component: {fileID: 7083856284467996962}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: SnowStagon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -218,7 +234,7 @@ Transform:
   m_GameObject: {fileID: 7083856284467996989}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 10, y: 10, z: 10}
+  m_LocalScale: {x: 25, y: 25, z: 25}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 7083856283401420673}
@@ -235,13 +251,13 @@ LODGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7083856284467996989}
   serializedVersion: 2
-  m_LocalReferencePoint: {x: 0, y: 0, z: 0}
-  m_Size: 2
-  m_FadeMode: 1
+  m_LocalReferencePoint: {x: 0, y: 0, z: -0.00000047683716}
+  m_Size: 2.000321
+  m_FadeMode: 0
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
   m_LODs:
-  - screenRelativeHeight: 0.1
+  - screenRelativeHeight: 0.8
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 7083856283401420675}
@@ -261,7 +277,7 @@ GameObject:
   - component: {fileID: 7083856285317724047}
   - component: {fileID: 7083856285317724046}
   - component: {fileID: 7083856285317724041}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: Hexagon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
