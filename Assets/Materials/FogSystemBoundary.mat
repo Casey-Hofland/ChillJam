@@ -107,6 +107,7 @@ Material:
     - _GlossyReflections: 0
     - _Metallic: 0
     - _OcclusionStrength: 1
+    - _Origin: 6.58
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -114,6 +115,7 @@ Material:
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
+    - _Spread: 2
     - _SrcBlend: 1
     - _Surface: 0
     - _VerticalCutoff: 0.5
@@ -122,7 +124,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _A: {r: 1, g: 1, b: 1, a: 0}
-    - _Albedo: {r: 0.9103774, g: 0.99028635, b: 1, a: 1}
+    - _Albedo: {r: 0.9137255, g: 0.99215686, b: 1, a: 1}
     - _B: {r: 1, g: 1, b: 1, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
