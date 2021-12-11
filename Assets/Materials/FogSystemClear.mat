@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: FogSystemBoundary
+  m_Name: FogSystemClear
   m_Shader: {fileID: -6465566751694194690, guid: e4a5d27d947e6c54fadbd593cd5d60ed, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -107,7 +107,7 @@ Material:
     - _GlossyReflections: 0
     - _Metallic: 0
     - _OcclusionStrength: 1
-    - _Origin: 150
+    - _Origin: 100
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -115,7 +115,7 @@ Material:
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _Spread: 50
+    - _Spread: 15
     - _SrcBlend: 1
     - _Surface: 0
     - _VerticalCutoff: 0.5

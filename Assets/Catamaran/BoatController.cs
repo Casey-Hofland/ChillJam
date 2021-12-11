@@ -46,13 +46,13 @@ public class BoatController : MonoBehaviour
         force = Vector3.zero;
         if (Keyboard.current.wKey.isPressed)
         {
-            force += Vector3.forward * speed * Mathf.Lerp(1f, 0.7f, torque.z);
+            force += Vector3.forward * speed * Mathf.Lerp(1f, 0.9f, torque.z);
             //rigidbody.AddRelativeForce(force);
         }
 
         if (Keyboard.current.sKey.isPressed)
         {
-            force += Vector3.back * backwardsSpeed * Mathf.Lerp(1f, 0.7f, torque.z);
+            force += Vector3.back * backwardsSpeed * Mathf.Lerp(1f, 0.9f, torque.z);
             //rigidbody.AddRelativeForce(force);
         }
 
@@ -91,10 +91,12 @@ public class BoatController : MonoBehaviour
             GameObject.Find("CatamaranFollowCamera").GetComponent<Cinemachine.CinemachineVirtualCamera>().Follow = newGameObject.GetComponent<ThirdPersonCinemachineController>().CinemachineCameraTarget.transform;
 
             Interact.TogglePlayerAndBoat(true);
-            var player = GameObject.Find("PlayerArmature");
-            player.transform.SetPositionAndRotation(playerSpawnPoint.position, playerSpawnPoint.rotation);
 
             DestroyImmediate(gameObject);
+
+            var player = GameObject.Find("PlayerArmature");
+            var playerSpawnPoint = newGameObject.GetComponent<BoatController>().playerSpawnPoint;
+            player.transform.SetPositionAndRotation(playerSpawnPoint.position, playerSpawnPoint.rotation);
         }
     }
 

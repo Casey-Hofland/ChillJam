@@ -17,7 +17,7 @@ RenderSettings:
   m_Fog: 1
   m_FogColor: {r: 0.9137255, g: 0.99215686, b: 1, a: 1}
   m_FogMode: 3
-  m_FogDensity: 0.015
+  m_FogDensity: 0.025
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
   m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
@@ -178,6 +178,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &3546628 stripped
@@ -239,6 +243,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -302,6 +310,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &47749348 stripped
@@ -363,6 +375,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -426,6 +442,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &63788764 stripped
@@ -487,6 +507,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -550,6 +574,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &76548823 stripped
@@ -611,6 +639,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -674,6 +706,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &102495418 stripped
@@ -735,6 +771,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -798,6 +838,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &136506820 stripped
@@ -859,6 +903,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -922,6 +970,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &155301921 stripped
@@ -983,6 +1035,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -1046,6 +1102,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &159518904 stripped
@@ -1107,6 +1167,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -1170,6 +1234,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &223663309 stripped
@@ -1231,6 +1299,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -1294,6 +1366,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &245466954 stripped
@@ -1301,6 +1377,29 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7083856284467996963, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
   m_PrefabInstance: {fileID: 245466953}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &245563914 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6219781096707535436, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
+  m_PrefabInstance: {fileID: 6219781096227849643}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &245563915 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6219781096707535427, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
+  m_PrefabInstance: {fileID: 6219781096227849643}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &245563924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 245563914}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 185622e9b12ebca4492e05eeafafff9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  offset: {x: 0, y: 0, z: 0}
 --- !u!1001 &259692474
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1355,6 +1454,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -1418,6 +1521,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &261326838 stripped
@@ -1479,6 +1586,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -1542,6 +1653,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &280894408 stripped
@@ -1604,6 +1719,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &288457265 stripped
@@ -1623,12 +1742,12 @@ GameObject:
   - component: {fileID: 299840083}
   - component: {fileID: 299840082}
   m_Layer: 5
-  m_Name: Compass Background
+  m_Name: Compass Foreground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &299840081
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1642,7 +1761,7 @@ RectTransform:
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1507596369}
-  m_RootOrder: 1
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1662,7 +1781,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9137255, g: 0.99215686, b: 1, a: 0.14901961}
   m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 0
@@ -1765,6 +1884,55 @@ TerrainCollider:
   m_Enabled: 0
   m_TerrainData: {fileID: 15600000, guid: 37e3d0bfa2e34fc41a793fb574c50989, type: 2}
   m_EnableTreeColliders: 1
+--- !u!1 &317749388
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 317749390}
+  - component: {fileID: 317749389}
+  m_Layer: 0
+  m_Name: Global Volume
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &317749389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 317749388}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IsGlobal: 1
+  priority: 0
+  blendDistance: 0
+  weight: 1
+  sharedProfile: {fileID: 11400000, guid: e10cacc3198ea43f08f0ecfaa0435918, type: 2}
+--- !u!4 &317749390
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 317749388}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &319263189
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1819,6 +1987,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -1882,6 +2054,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &321728986 stripped
@@ -1943,6 +2119,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -2104,6 +2284,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &337796972 stripped
@@ -2165,6 +2349,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -2228,6 +2416,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &352964954 stripped
@@ -2289,6 +2481,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -2352,6 +2548,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &372185749 stripped
@@ -2413,6 +2613,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -2476,6 +2680,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &381258672 stripped
@@ -2537,6 +2745,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -2698,6 +2910,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &388456667 stripped
@@ -2858,6 +3074,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &427968188 stripped
@@ -2919,6 +3139,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -3080,6 +3304,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &438604664 stripped
@@ -3141,6 +3369,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -3282,6 +3514,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &460877863 stripped
@@ -3344,6 +3580,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &466818834 stripped
@@ -3405,6 +3645,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -3565,6 +3809,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -3824,6 +4072,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &502711241 stripped
@@ -3885,6 +4137,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -4046,6 +4302,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &543803998 stripped
@@ -4107,6 +4367,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -4170,6 +4434,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &550078356 stripped
@@ -4231,6 +4499,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -4392,6 +4664,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &574089450 stripped
@@ -4453,6 +4729,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -4614,6 +4894,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &587983920 stripped
@@ -4675,6 +4959,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -4836,6 +5124,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &602188286 stripped
@@ -4996,6 +5288,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &616486933 stripped
@@ -5003,6 +5299,51 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7083856284467996963, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
   m_PrefabInstance: {fileID: 616486932}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &619481838
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 619481839}
+  - component: {fileID: 619481840}
+  m_Layer: 8
+  m_Name: Orb_1
+  m_TagString: OrbPlacer
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &619481839
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 619481838}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.6666666, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 1084658011}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!135 &619481840
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 619481838}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &625849306
 GameObject:
   m_ObjectHideFlags: 0
@@ -5079,6 +5420,82 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 625849306}
   m_CullTransparentMesh: 1
+--- !u!1 &639908033
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 639908034}
+  - component: {fileID: 639908036}
+  - component: {fileID: 639908035}
+  m_Layer: 5
+  m_Name: Compass Background
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &639908034
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 639908033}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 1507596369}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 396.80005, y: -195.20001}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &639908035
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 639908033}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.65199995, g: 0.5418844, b: 0.45379198, a: 1}
+  m_RaycastTarget: 0
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 0
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -2413806693520163455, guid: 7065cfdea82d32e4bb0a4ce9cd7979b4, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &639908036
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 639908033}
+  m_CullTransparentMesh: 1
 --- !u!1001 &644291584
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5133,6 +5550,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -5388,7 +5809,7 @@ Transform:
   - {fileID: 740407153}
   - {fileID: 1467989243}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &647334863
 MonoBehaviour:
@@ -5459,6 +5880,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &652909284 stripped
@@ -5521,6 +5946,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &663608835 stripped
@@ -5582,6 +6011,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -5821,6 +6254,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &681794228 stripped
@@ -5882,6 +6319,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -5945,6 +6386,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &698082292 stripped
@@ -6007,6 +6452,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &702891541 stripped
@@ -6068,6 +6517,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -6323,6 +6776,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &740407153 stripped
@@ -6428,6 +6885,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &746681205
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134183966}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 5942086413982268935, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
 --- !u!1001 &748364877
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6482,6 +6953,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -6544,6 +7019,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -6685,6 +7164,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &788550348 stripped
@@ -6743,7 +7226,7 @@ Transform:
   - {fileID: 303857755}
   - {fileID: 1913437181}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &797219894
 PrefabInstance:
@@ -6800,6 +7283,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &797219895 stripped
@@ -6814,21 +7301,37 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 821165915, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+      propertyPath: skyBoxes.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 821165915, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+      propertyPath: skyBoxes.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 71f71c1d5afb1644d99df9e491b65148, type: 2}
+    - target: {fileID: 821165915, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+      propertyPath: skyBoxes.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: cfdf591d5e06a834dad78e7b4d66affa, type: 2}
+    - target: {fileID: 821165915, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+      propertyPath: skyBoxes.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: b64bff81424a73444bf9e7582f0fa929, type: 2}
     - target: {fileID: 3893294197879345259, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 3893294197879345259, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.3573616
+      value: -5.905195
       objectReference: {fileID: 0}
     - target: {fileID: 3893294197879345259, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.1136389
+      value: 0.49999976
       objectReference: {fileID: 0}
     - target: {fileID: 3893294197879345259, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.4351983
+      value: -11.407139
       objectReference: {fileID: 0}
     - target: {fileID: 3893294197879345259, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
       propertyPath: m_LocalRotation.w
@@ -6869,6 +7372,65 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8338988566280778637, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
   m_PrefabInstance: {fileID: 821165913}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &822524885
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 822524886}
+  - component: {fileID: 822524888}
+  - component: {fileID: 822524887}
+  m_Layer: 8
+  m_Name: OrbInteractable
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &822524886
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 822524885}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 1249232731}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!135 &822524887
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 822524885}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 1.5
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &822524888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 822524885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b6900fb8f0b10d49a04e163d512a79c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orb: {fileID: 1249232727}
 --- !u!1001 &834907013
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6923,6 +7485,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -6985,6 +7551,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -7146,6 +7716,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &854790556 stripped
@@ -7306,6 +7880,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &870114033 stripped
@@ -7367,6 +7945,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -7430,6 +8012,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &903285109 stripped
@@ -7491,6 +8077,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -7554,6 +8144,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &915892949 stripped
@@ -7615,6 +8209,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -7678,6 +8276,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &936321632 stripped
@@ -7739,6 +8341,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -7802,6 +8408,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &939722884 stripped
@@ -7863,6 +8473,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -8114,6 +8728,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &980968270 stripped
@@ -8176,6 +8794,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &985835016 stripped
@@ -8183,6 +8805,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7083856284467996963, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
   m_PrefabInstance: {fileID: 985835015}
   m_PrefabAsset: {fileID: 0}
+--- !u!64 &986952290
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134183968}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -4162253513501663206, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
 --- !u!1001 &990552838
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8237,6 +8873,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -8300,6 +8940,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &995650998 stripped
@@ -8362,6 +9006,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1001376001 stripped
@@ -8369,6 +9017,56 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7083856284467996963, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
   m_PrefabInstance: {fileID: 1001376000}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1002415524
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1002415526}
+  - component: {fileID: 1002415525}
+  m_Layer: 0
+  m_Name: Fader
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1002415525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1002415524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c13daead49176c498c96a2f6c88fdf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainCamera: {fileID: 1346088928}
+  material: {fileID: 2100000, guid: 6e4a1a7a51598214b9bcd81fc39e790e, type: 2}
+  start: {fileID: 2100000, guid: faf85093f81871248ab377c9e0a29073, type: 2}
+  end: {fileID: 2100000, guid: a740b520e6a192b48a0c8ce0778d9279, type: 2}
+  minDistance: 10
+  maxDistance: 50
+--- !u!4 &1002415526
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1002415524}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.25, y: 2.25, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1003990028
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8423,6 +9121,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -8485,6 +9187,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -8646,6 +9352,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1042486020 stripped
@@ -8707,6 +9417,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -8770,6 +9484,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1055756729 stripped
@@ -8831,6 +9549,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -8894,6 +9616,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1068260525 stripped
@@ -8955,6 +9681,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -9018,6 +9748,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1074693586 stripped
@@ -9080,6 +9814,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1082429000 stripped
@@ -9087,6 +9825,104 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7083856284467996963, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
   m_PrefabInstance: {fileID: 1082428999}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1084658007
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1084658011}
+  - component: {fileID: 1084658010}
+  - component: {fileID: 1084658009}
+  - component: {fileID: 1084658008}
+  m_Layer: 0
+  m_Name: Cube
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &1084658008
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1084658007}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1084658009
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1084658007}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1084658010
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1084658007}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1084658011
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1084658007}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.25, y: 2.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 619481839}
+  m_Father: {fileID: 0}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1091287801
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9141,6 +9977,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -9204,6 +10044,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1091485408 stripped
@@ -9265,6 +10109,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -9328,6 +10176,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1095767014 stripped
@@ -9389,6 +10241,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -9452,6 +10308,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1106107711 stripped
@@ -9513,6 +10373,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -9576,6 +10440,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1123517748 stripped
@@ -9637,6 +10505,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -9700,6 +10572,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1137983884 stripped
@@ -9761,6 +10637,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -9824,6 +10704,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1155401824 stripped
@@ -9885,6 +10769,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -9948,6 +10836,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1174268525 stripped
@@ -10010,6 +10902,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1176751278 stripped
@@ -10071,6 +10967,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -10232,6 +11132,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1182353671 stripped
@@ -10293,6 +11197,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -10356,6 +11264,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1199061785 stripped
@@ -10418,6 +11330,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1209536399 stripped
@@ -10425,6 +11341,104 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7083856284467996963, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
   m_PrefabInstance: {fileID: 1209536398}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1249232727
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1249232731}
+  - component: {fileID: 1249232730}
+  - component: {fileID: 1249232729}
+  - component: {fileID: 1249232728}
+  m_Layer: 0
+  m_Name: Orb
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!135 &1249232728
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1249232727}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1249232729
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1249232727}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 615c5fbd6ca223a43ae4a875ee03db40, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1249232730
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1249232727}
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1249232731
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1249232727}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.946, y: 3.25, z: 3.5149999}
+  m_LocalScale: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 822524886}
+  m_Father: {fileID: 0}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1251653793
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10479,6 +11493,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -10542,6 +11560,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1258248866 stripped
@@ -10603,6 +11625,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -10666,6 +11692,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1261981138 stripped
@@ -10673,6 +11703,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7083856284467996963, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
   m_PrefabInstance: {fileID: 1261981137}
   m_PrefabAsset: {fileID: 0}
+--- !u!64 &1262073871
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134183970}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3191843991455854740, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
 --- !u!1 &1271069933
 GameObject:
   m_ObjectHideFlags: 0
@@ -10924,6 +11968,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1284056878 stripped
@@ -10985,6 +12033,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -11048,6 +12100,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1298429947 stripped
@@ -11110,6 +12166,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1306569752 stripped
@@ -11171,6 +12231,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -11312,6 +12376,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1338945678 stripped
@@ -11371,7 +12439,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.2
-  far clip plane: 2000
+  far clip plane: 150
   field of view: 90
   orthographic: 0
   orthographic size: 10
@@ -11398,7 +12466,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1346088925}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.1573615, y: 3.7936387, z: -4.4351983}
+  m_LocalPosition: {x: -5.7051954, y: 2.1799998, z: -15.407139}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -11528,6 +12596,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1351501198 stripped
@@ -11590,6 +12662,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1380432053 stripped
@@ -11651,6 +12727,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -11812,6 +12892,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1391708798 stripped
@@ -11874,6 +12958,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1397773323 stripped
@@ -11935,6 +13023,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -12158,6 +13250,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1420578048 stripped
@@ -12219,6 +13315,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -12282,6 +13382,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1431287927 stripped
@@ -12343,6 +13447,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -12406,6 +13514,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1446286171 stripped
@@ -12467,6 +13579,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -12530,6 +13646,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1460808518 stripped
@@ -12591,6 +13711,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -12654,6 +13778,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1474058610 stripped
@@ -12715,6 +13843,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -12778,6 +13910,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1481283949 stripped
@@ -12816,7 +13952,7 @@ Transform:
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!154 &1489191273
 TerrainCollider:
@@ -12917,6 +14053,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -13038,7 +14178,7 @@ Transform:
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!1 &1503894559
 GameObject:
@@ -13214,10 +14354,11 @@ RectTransform:
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 625849307}
-  - {fileID: 299840081}
+  - {fileID: 639908034}
   - {fileID: 1811955622}
+  - {fileID: 299840081}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -13291,6 +14432,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1517529866 stripped
@@ -13352,6 +14497,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -13420,6 +14569,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1537487460 stripped
@@ -13482,6 +14635,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1539711250 stripped
@@ -13543,6 +14700,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -13704,6 +14865,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1552953585 stripped
@@ -13864,6 +15029,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1607898914 stripped
@@ -13925,6 +15094,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -13988,6 +15161,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1614885823 stripped
@@ -14049,6 +15226,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -14210,6 +15391,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1627991613 stripped
@@ -14279,7 +15464,7 @@ Transform:
   - {fileID: 387280322}
   - {fileID: 1888857036}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1655764743
 PrefabInstance:
@@ -14335,6 +15520,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -14398,6 +15587,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1660391251 stripped
@@ -14459,6 +15652,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -14522,6 +15719,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1707093208 stripped
@@ -14529,6 +15730,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7083856284467996963, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
   m_PrefabInstance: {fileID: 1707093207}
   m_PrefabAsset: {fileID: 0}
+--- !u!64 &1707457215
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134183967}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 1595783810130990727, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
 --- !u!1001 &1719664555
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14583,6 +15798,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -14646,6 +15865,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1722486711 stripped
@@ -14707,6 +15930,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -14770,6 +15997,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1747073856 stripped
@@ -14832,6 +16063,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1754720360 stripped
@@ -14893,6 +16128,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -15034,6 +16273,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1772268695 stripped
@@ -15174,6 +16417,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1808297783 stripped
@@ -15258,6 +16505,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1811955621}
   m_CullTransparentMesh: 1
+--- !u!64 &1812227105
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134183969}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2721331549007201028, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
 --- !u!1001 &1813900950
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15312,6 +16573,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -15375,6 +16640,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1814232640 stripped
@@ -15436,6 +16705,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -15499,6 +16772,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1820642526 stripped
@@ -15560,6 +16837,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -15623,6 +16904,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1825729332 stripped
@@ -15684,6 +16969,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -15747,6 +17036,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1835692095 stripped
@@ -15808,6 +17101,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -15871,6 +17168,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1836780730 stripped
@@ -15933,6 +17234,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1840850090 stripped
@@ -15994,6 +17299,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -16155,6 +17464,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1856923673 stripped
@@ -16216,6 +17529,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -16279,6 +17596,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1867256860 stripped
@@ -16340,6 +17661,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -16403,6 +17728,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1878043140 stripped
@@ -16454,7 +17783,7 @@ Transform:
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1888857035
 GameObject:
@@ -16609,6 +17938,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1889228418 stripped
@@ -16670,6 +18003,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -16733,6 +18070,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1903927586 stripped
@@ -16795,6 +18136,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1905119354 stripped
@@ -16856,6 +18201,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -16997,6 +18346,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1915283156 stripped
@@ -17059,6 +18412,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1941885462 stripped
@@ -17120,6 +18477,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -17226,6 +18587,134 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &1970680987
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1970680989}
+  - component: {fileID: 1970680988}
+  m_Layer: 0
+  m_Name: BlizzardSFX
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1970680988
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1970680987}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 1eaa2213cf0670f4989e5a7784a2e322, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1970680989
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1970680987}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.4809501, y: 1.0276413, z: -1.972047}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1973673077
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17280,6 +18769,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -17343,6 +18836,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &1974595538 stripped
@@ -17404,6 +18901,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -17565,6 +19066,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &2006508002 stripped
@@ -17626,6 +19131,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -17689,6 +19198,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &2016233281 stripped
@@ -17750,6 +19263,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -17813,6 +19330,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &2032945593 stripped
@@ -17874,6 +19395,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -17937,6 +19462,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &2048234234 stripped
@@ -17998,6 +19527,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -18061,6 +19594,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &2052060072 stripped
@@ -18122,6 +19659,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -18185,6 +19726,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &2059748728 stripped
@@ -18247,6 +19792,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &2062311928 stripped
@@ -18308,6 +19857,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -18433,6 +19986,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &2091475022 stripped
@@ -18494,6 +20051,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -18655,6 +20216,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &2119640751 stripped
@@ -18662,6 +20227,190 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7083856284467996963, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
   m_PrefabInstance: {fileID: 2119640750}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2134183965
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 245563915}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4470278
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.72
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.64234984
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9999703
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.0077030873
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -165
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+      propertyPath: m_Name
+      value: boatfbx
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790868808166937211, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9022215874312191456, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+--- !u!1 &2134183966 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -2567555823779535870, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+  m_PrefabInstance: {fileID: 2134183965}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2134183967 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -9070748969904699067, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+  m_PrefabInstance: {fileID: 2134183965}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2134183968 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2903893172859080141, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+  m_PrefabInstance: {fileID: 2134183965}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2134183969 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7367559088687387456, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+  m_PrefabInstance: {fileID: 2134183965}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2134183970 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5090062054982439474, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+  m_PrefabInstance: {fileID: 2134183965}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2134183971 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3403155128824885820, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+  m_PrefabInstance: {fileID: 2134183965}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2134183972 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -8514713098356269253, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+  m_PrefabInstance: {fileID: 2134183965}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2134183973 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -5174473454891870792, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+  m_PrefabInstance: {fileID: 2134183965}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2134183974 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5722919998248869405, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+  m_PrefabInstance: {fileID: 2134183965}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2134183975 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -344004081357383697, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+  m_PrefabInstance: {fileID: 2134183965}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &2134183976
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134183971}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -364044783463932134, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
+--- !u!136 &2134183977
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134183972}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.69746166
+  m_Height: 6.15984
+  m_Direction: 1
+  m_Center: {x: 0.0000011931593, y: -0.035778306, z: 0.25}
+--- !u!136 &2134183978
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134183973}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.69746166
+  m_Height: 6.1598396
+  m_Direction: 1
+  m_Center: {x: -0.0000012197117, y: 0.4267358, z: 0}
+--- !u!65 &2134183979
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134183974}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.48211274, y: 7.159439, z: 0.5000007}
+  m_Center: {x: 0.008943009, y: 1.9280434, z: -0.0000016689308}
+--- !u!64 &2134183980
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134183975}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3861478300804232965, guid: 404eb07ad62bcce4caf040711170774c, type: 3}
 --- !u!1001 &2140846994
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18716,6 +20465,10 @@ PrefabInstance:
     - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
       propertyPath: m_Name
       value: SnowStagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
@@ -18779,6 +20532,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowStagon
       objectReference: {fileID: 0}
+    - target: {fileID: 7083856284467996989, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7205f063576225947a4aeb7825bf7d9b, type: 3}
 --- !u!4 &2141243944 stripped
@@ -18799,19 +20556,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2070925441746177912, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 2070925441746177912, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.1573615
+      value: -5.7051954
       objectReference: {fileID: 0}
     - target: {fileID: 2070925441746177912, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.7936387
+      value: 2.1799998
       objectReference: {fileID: 0}
     - target: {fileID: 2070925441746177912, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -4.4351983
+      value: -15.407139
       objectReference: {fileID: 0}
     - target: {fileID: 2070925441746177912, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
       propertyPath: m_LocalRotation.w
@@ -18856,7 +20613,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3719603250557847260, guid: a0818abadb509554aadd1100d04902ae, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 3719603250557847260, guid: a0818abadb509554aadd1100d04902ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -18902,6 +20659,10 @@ PrefabInstance:
       propertyPath: m_Follow
       value: 
       objectReference: {fileID: 1527222539}
+    - target: {fileID: 3719603250557847261, guid: a0818abadb509554aadd1100d04902ae, type: 3}
+      propertyPath: m_Lens.FieldOfView
+      value: 120
+      objectReference: {fileID: 0}
     - target: {fileID: 3719603250557847331, guid: a0818abadb509554aadd1100d04902ae, type: 3}
       propertyPath: m_Name
       value: CatamaranFollowCamera
@@ -18931,13 +20692,45 @@ PrefabInstance:
       propertyPath: m_ActionEvents.Array.data[3].m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 734504239}
+    - target: {fileID: 1152510993, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
+      propertyPath: m_Size.x
+      value: 4.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1152510993, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
+      propertyPath: m_Size.z
+      value: 4.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1555246120, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6219781096162525170, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6219781096223063335, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6219781096448690566, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6219781096592402774, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6219781096639123960, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6219781096707535427, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 6219781096707535427, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.74
+      value: -9.34
       objectReference: {fileID: 0}
     - target: {fileID: 6219781096707535427, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
       propertyPath: m_LocalPosition.y
@@ -18945,7 +20738,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6219781096707535427, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -20.64
+      value: -13.77
       objectReference: {fileID: 0}
     - target: {fileID: 6219781096707535427, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
       propertyPath: m_LocalRotation.w
@@ -18978,6 +20771,26 @@ PrefabInstance:
     - target: {fileID: 6219781096707535436, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
       propertyPath: m_Name
       value: Catamaran
+      objectReference: {fileID: 0}
+    - target: {fileID: 6219781096707535436, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6219781096824708117, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6219781097465934542, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6219781097686860048, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6219781098207986383, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 624a248a015b1a349a61ce8f0b115882, type: 3}
