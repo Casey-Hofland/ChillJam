@@ -107,7 +107,7 @@ Material:
     - _GlossyReflections: 0
     - _Metallic: 0
     - _OcclusionStrength: 1
-    - _Origin: 6.58
+    - _Origin: 25
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -115,7 +115,7 @@ Material:
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _Spread: 2
+    - _Spread: 40
     - _SrcBlend: 1
     - _Surface: 0
     - _VerticalCutoff: 0.5
