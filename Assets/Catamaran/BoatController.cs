@@ -16,6 +16,13 @@ public class BoatController : MonoBehaviour
 
     public Transform playerSpawnPoint;
 
+    private Vector3 spawnOffset;
+
+    private void Start()
+    {
+        spawnOffset = playerSpawnPoint.position - transform.position;
+    }
+
     private void Update()
     {
         rigidbody.WakeUp();
@@ -92,11 +99,10 @@ public class BoatController : MonoBehaviour
 
             Interact.TogglePlayerAndBoat(true);
 
-            DestroyImmediate(gameObject);
-
             var player = GameObject.Find("PlayerArmature");
-            var playerSpawnPoint = newGameObject.GetComponent<BoatController>().playerSpawnPoint;
-            player.transform.SetPositionAndRotation(playerSpawnPoint.position, playerSpawnPoint.rotation);
+            player.transform.SetPositionAndRotation(transform.position + spawnOffset, playerSpawnPoint.rotation);
+
+            DestroyImmediate(gameObject);
         }
     }
 

@@ -16,6 +16,8 @@ public class Interact : MonoBehaviour
 
     public List<Material> skyBoxes;
 
+    private int orbsPlaced = 0;
+
     private void Start()
     {
         TogglePlayerAndBoat(true);
@@ -25,15 +27,12 @@ public class Interact : MonoBehaviour
     {
         if (Keyboard.current.eKey.wasPressedThisFrame)
         {
-            if (Physics.Raycast(transform.position, transform.forward, out RaycastHit hit, distance, layerMask, QueryTriggerInteraction.Collide))
+            if (Physics.Raycast(transform.position, transform.parent.forward, out RaycastHit hit, distance, layerMask, QueryTriggerInteraction.Collide))
             {
-                if (hit.collider.TryGetComponent(out OrbInteractable orbInteractable))
+                if (hit.collider.TryGetComponent(out OrbInteractable2 orbInteractable))
                 {
-                    var orb = orbInteractable.orb;
-                    Destroy(orbInteractable.gameObject);
-
-                    orbs.Add(orb);
-                    orb.SetActive(false);
+                    orbInteractable.Interact();
+                    orbs.Add(orbInteractable.orb);
 
                     AdvanceSkybox();
                 }
@@ -45,6 +44,12 @@ public class Interact : MonoBehaviour
                     orbs.RemoveAt(0);
 
                     Destroy(hit.collider);
+
+                    orbsPlaced++;
+                    if (orbsPlaced == 3)
+                    {
+                        // Ending
+                    }
                 }
                 else if (hit.collider.CompareTag("BoatInteraction"))
                 {
@@ -105,5 +110,9 @@ public class Interact : MonoBehaviour
         {
             brain.m_UpdateMethod = Cinemachine.CinemachineBrain.UpdateMethod.FixedUpdate;
         }
+
+        // Ainaosn
+        Array.Find(allGameObjects, gameObject => gameObject.name == "PlayerArmature_Boat").SetActive(!enablePlayer);
+
     }
 }
