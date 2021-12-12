@@ -14,6 +14,8 @@ public class OrbInteractable2 : MonoBehaviour
     private VisualEffect effect;
     private AudioSource audio;
 
+    public GameObject cross;
+
     private void Start()
     {
         director = GetComponent<PlayableDirector>();
@@ -25,7 +27,7 @@ public class OrbInteractable2 : MonoBehaviour
         director.stopped += (dir) => SetPlayerInput(true);
     }
 
-    private void SetPlayerInput(bool enabled)
+    public static void SetPlayerInput(bool enabled)
     {
         var player = GameObject.Find("PlayerArmature");
 
@@ -45,10 +47,15 @@ public class OrbInteractable2 : MonoBehaviour
     public void Interact()
     {
         director.Play();
+        foreach (var effect in orb.GetComponentsInChildren<VisualEffect>())
+        {
+            effect.Stop();
+        }
 
         SetPlayerInput(false);
         Destroy(GetComponent<CapsuleCollider>());
 
         audio.Play();
+        cross.SetActive(true);
     }
 }

@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Playables;
+using UnityEngine.VFX;
 
 public class Interact : MonoBehaviour
 {
@@ -18,7 +20,7 @@ public class Interact : MonoBehaviour
 
     private int orbsPlaced = 0;
 
-    private void Start()
+    private void Awake()
     {
         TogglePlayerAndBoat(true);
     }
@@ -41,6 +43,12 @@ public class Interact : MonoBehaviour
                     var placeTransform = hit.transform;
                     orbs[0].SetActive(true);
                     orbs[0].transform.SetPositionAndRotation(placeTransform.position, placeTransform.rotation);
+
+                    foreach (var effect in orbs[0].GetComponentsInChildren<VisualEffect>())
+                    {
+                        effect.Play();
+                    }
+
                     orbs.RemoveAt(0);
 
                     Destroy(hit.collider);
@@ -49,6 +57,7 @@ public class Interact : MonoBehaviour
                     if (orbsPlaced == 3)
                     {
                         // Ending
+                        GameObject.Find("Ending Sequence").GetComponent<PlayableDirector>().Play();
                     }
                 }
                 else if (hit.collider.CompareTag("BoatInteraction"))
