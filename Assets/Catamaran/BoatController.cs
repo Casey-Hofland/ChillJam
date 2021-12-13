@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -15,13 +16,6 @@ public class BoatController : MonoBehaviour
     private Vector3 torque;
 
     public Transform playerSpawnPoint;
-
-    private Vector3 spawnOffset;
-
-    private void Start()
-    {
-        spawnOffset = playerSpawnPoint.position - transform.position;
-    }
 
     private void Update()
     {
@@ -93,16 +87,40 @@ public class BoatController : MonoBehaviour
             newRigidbody.velocity = rigidbody.velocity;
             newRigidbody.angularVelocity = rigidbody.angularVelocity;
             
+            var newBoatController = newGameObject.GetComponent<BoatController>();
+
             gameObject.name += " Old";
 
             GameObject.Find("CatamaranFollowCamera").GetComponent<Cinemachine.CinemachineVirtualCamera>().Follow = newGameObject.GetComponent<ThirdPersonCinemachineController>().CinemachineCameraTarget.transform;
 
             Interact.TogglePlayerAndBoat(true);
 
-            var player = GameObject.Find("PlayerArmature");
-            player.transform.SetPositionAndRotation(transform.position + spawnOffset, playerSpawnPoint.rotation);
-
             DestroyImmediate(gameObject);
+
+            newBoatController.StartCoroutine(Coroutine());
+
+            IEnumerator Coroutine()
+            {
+                var player = GameObject.Find("PlayerArmature");
+
+                int i = 0;
+                do
+                {
+                    if (i > 0)
+                    {
+                        Debug.Log($"Fail {i}");
+                    }
+                    i++;
+
+                    player.transform.SetPositionAndRotation(newBoatController.playerSpawnPoint.position, newBoatController.playerSpawnPoint.rotation);
+
+                    yield return null;
+                    yield return null;
+                }
+                while ((player.transform.position - newBoatController.playerSpawnPoint.position).sqrMagnitude > 1f);
+
+                Debug.Log("Success");
+            }
         }
     }
 
