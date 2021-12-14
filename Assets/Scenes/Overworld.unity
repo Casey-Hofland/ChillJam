@@ -8748,6 +8748,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayerArmature
       objectReference: {fileID: 0}
+    - target: {fileID: 4416926081852918493, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+      propertyPath: m_DefaultActionMap
+      value: f62a4b92-ef5e-4175-8f4c-c9075429d32c
+      objectReference: {fileID: 0}
     - target: {fileID: 4771114395735085007, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.0044368654
@@ -18870,6 +18874,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2129528605931818167, guid: 0726d5477afed074bb9bd1822dedf8d9, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e4bfd6c631d62e64bb3a991b7f35e444, type: 3}
     - target: {fileID: 5767925942140347313, guid: 0726d5477afed074bb9bd1822dedf8d9, type: 3}
       propertyPath: m_LocalRotation.w
       value: -0.47378066
@@ -19857,6 +19865,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2129528605931818167, guid: 0726d5477afed074bb9bd1822dedf8d9, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e4bfd6c631d62e64bb3a991b7f35e444, type: 3}
     - target: {fileID: 5767925942140347313, guid: 0726d5477afed074bb9bd1822dedf8d9, type: 3}
       propertyPath: m_LocalRotation.w
       value: -0.47378066
@@ -23728,7 +23740,7 @@ VideoPlayer:
   m_PlayOnAwake: 1
   m_SkipOnDrop: 1
   m_Looping: 0
-  m_WaitForFirstFrame: 0
+  m_WaitForFirstFrame: 1
   m_FrameReadyEventEnabled: 0
   m_VideoShaders: []
 --- !u!114 &2114443422
@@ -24351,6 +24363,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2129528605931818167, guid: 0726d5477afed074bb9bd1822dedf8d9, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e4bfd6c631d62e64bb3a991b7f35e444, type: 3}
     - target: {fileID: 5767925942140347313, guid: 0726d5477afed074bb9bd1822dedf8d9, type: 3}
       propertyPath: m_LocalRotation.w
       value: -0.47378066

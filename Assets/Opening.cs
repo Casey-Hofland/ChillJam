@@ -7,7 +7,6 @@ using UnityEngine.Video;
 public class Opening : MonoBehaviour
 {
     public Canvas uiCanvas;
-    public AudioSource blizzardSFX;
     public Volume globalVolume;
 
     private VideoPlayer videoPlayer;
@@ -17,12 +16,22 @@ public class Opening : MonoBehaviour
         videoPlayer = GetComponent<VideoPlayer>();
 
         globalVolume.enabled = false;
-        uiCanvas.enabled = false;
-        blizzardSFX.volume = 0f;
+        uiCanvas.enabled = true;
+
+        var blackScreen = uiCanvas.transform.GetChild(uiCanvas.transform.childCount - 1).GetComponent<Image>();
+        var color = blackScreen.color;
+        color.a = 1f;
+        blackScreen.color = color;
 
         OrbInteractable2.SetPlayerInput(false);
 
+        videoPlayer.started += VideoPlayer_started;
         videoPlayer.loopPointReached += VideoPlayer_loopPointReached;
+    }
+
+    private void VideoPlayer_started(VideoPlayer source)
+    {
+        uiCanvas.enabled = false;
     }
 
     private void VideoPlayer_loopPointReached(VideoPlayer source)
@@ -31,15 +40,10 @@ public class Opening : MonoBehaviour
 
         uiCanvas.enabled = true;
         globalVolume.enabled = true;
-        blizzardSFX.volume = 0f;
-        blizzardSFX.Play();
 
         OrbInteractable2.SetPlayerInput(true);
 
         var blackScreen = uiCanvas.transform.GetChild(uiCanvas.transform.childCount - 1).GetComponent<Image>();
-        var color = blackScreen.color;
-        color.a = 1f;
-        blackScreen.color = color;
 
         StartCoroutine(Coroutine());
 
@@ -56,8 +60,6 @@ public class Opening : MonoBehaviour
                 var color = blackScreen.color;
                 color.a = 1f - t;
                 blackScreen.color = color;
-
-                blizzardSFX.volume = t;
 
                 yield return null;
             }
